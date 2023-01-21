@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './assets/photo-1614730321146-b6fa6a46bcb4.jpg';
 import './App.css';
 
 function App() {
@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Koonts
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://Koonts.net"
           target="_blank"
           rel="noopener noreferrer"
         >
