@@ -1,4 +1,4 @@
-import logo from './assets/photo-1614730321146-b6fa6a46bcb4.jpg';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,16 +6,17 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Koonts
-        </p>
+        <br></br>
+        <br></br>
+        <br></br>
+
         <a
           className="App-link"
           href="http://Koonts.net"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Koonts
         </a>
       </header>
     </div>
